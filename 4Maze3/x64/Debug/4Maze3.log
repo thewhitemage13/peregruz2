@@ -1,0 +1,3 @@
+﻿  4Maze3.cpp
+C:\Users\lolim\Desktop\C++\4Maze3\Mazex.h(46,5): error C3861: main: идентификатор не найден
+C:\Users\lolim\Desktop\C++\4Maze3\4Maze3.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
